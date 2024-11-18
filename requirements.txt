@@ -6,4 +6,7 @@ hachoir
 Pillow
 aiohttp
 pytz
+Flask
+gunicorn
+aiohttp
 pyromod
